@@ -7,6 +7,6 @@ int main()
 	cout<<"enter the radius of the circle"<<endl;
 	cin>>r;
 	area=pie*r*r;
-	cout<<area<<endl;
+	cout<<"area of a circle is "<<area<<endl;
 	return 0;
 }
